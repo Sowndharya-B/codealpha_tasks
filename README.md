@@ -1,4 +1,7 @@
 # codealpha_tasks
 CodeAlpha Graphic Design Internship Tasks
-1.Typography practice 
-2. Logo redesign 
+
+Task_1_Typography practice 
+Task_2_Logo redesign 
+Task_3_Storyboard design 
+
